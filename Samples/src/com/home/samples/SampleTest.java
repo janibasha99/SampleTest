@@ -10,7 +10,10 @@ public class SampleTest {
 		
 		System.out.println(t.getVehicleName());
 		
-		System.out.println("this is new branch");
+
+
+		System.out.println("this is merging to master branch");
+
 		
 		
 	}
