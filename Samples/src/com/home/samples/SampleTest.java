@@ -10,7 +10,7 @@ public class SampleTest {
 		
 		System.out.println(t.getVehicleName());
 		
-		System.out.println("this is unicorn branch");
+		System.out.println("this is new branch");
 		
 		
 	}
